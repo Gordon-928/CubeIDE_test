@@ -1,0 +1,24 @@
+!SESSION 2022-09-22 12:05:54.547 -----------------------------------------------
+eclipse.buildId=Version 1.10.1
+java.version=11.0.14.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-09-22 12:06:50.439
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-09-22 12:06:50.557
+!MESSAGE Log4j initialized with config file C:\Users\Gordon\STM32CubeIDE\workspace_1.10.1\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-09-22 12:07:02.276
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-09-22 12:23:31.627
+!MESSAGE Indexed 'Git_test' (19 sources, 81 headers) in 4.29 sec: 4,233 declarations; 17,716 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0091%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-09-22 12:48:42.508
+!MESSAGE Indexed 'Git_test_2' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-09-22 12:48:49.025
+!MESSAGE Indexed 'Git_test_2' (20 sources, 82 headers) in 3.38 sec: 5,331 declarations; 29,778 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0057%)
